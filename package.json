@@ -1,0 +1,12 @@
+{
+  "name": "aha-academy-fire-tv-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student-friendly Fire TV learning app demo with SQLite accounts and progress.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24.15"
+  }
+}
